@@ -1,0 +1,1 @@
+com.shashank.platform.furnitureecommerceappui.test
